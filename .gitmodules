@@ -1,0 +1,6 @@
+[submodule "lincolnzjx.github.io"]
+	path = lincolnzjx.github.io
+	url = git@github.com:Abraham9511/lincolnzjx.github.io.git
+[submodule "_site"]
+	path = _site
+	url = git@github.com:Abraham9511/lincolnzjx.github.io.git
